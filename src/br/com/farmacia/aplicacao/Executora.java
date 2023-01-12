@@ -1295,4 +1295,5 @@ public class Executora {
 			}
 		}while (opcao != "V");
 		ler.close();
+	}
 }
