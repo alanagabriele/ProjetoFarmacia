@@ -16,9 +16,9 @@
 ## 📸 Fotos do Projeto
 
 <div>
-  <img src="fotosProjeto\menuInicial.PNG"/>
-  <img src="fotosProjeto\menuMedicamento.PNG"/>
-  <img src="fotosProjeto\inserirMedicamento.PNG"/>
+  <img src="fotosProjeto\menuInicial.PNG" />
+  <img src="fotosProjeto\menuMedicamento.PNG" />
+  <img src="fotosProjeto\inserirMedicamento.PNG" />
 
 <div>
  
